@@ -1,0 +1,17 @@
+{
+  "name": "microsoft-learn-build-javascript-applications-using-typescript",
+  "version": "1.0.0",
+  "description": "Microsoft Learn: Build JavaScript applications using TypeScript course implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "microsoft",
+    "learn",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Javier Aguila",
+  "license": "ISC"
+}
